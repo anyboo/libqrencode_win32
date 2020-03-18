@@ -1,0 +1,1 @@
+# libqrencode_win32
